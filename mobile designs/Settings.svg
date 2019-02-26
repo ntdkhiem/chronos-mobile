@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <filter id="Rectangle_132" x="-9" y="-6" width="393" height="126.216" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_150" x="-7.5" y="727.5" width="390" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Settings">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Settings" clip-path="url(#clip-Settings)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_132)">
+      <rect id="Rectangle_132-2" data-name="Rectangle 132" width="375" height="108.216" fill="#0a89f3"/>
+    </g>
+    <g id="Header">
+      <g id="Navigator" transform="translate(36.5 52)">
+        <text id="SETTINGS-2" data-name="SETTINGS" transform="translate(151.5 15)" fill="#fff" font-size="14" font-family="Oxygen-Regular, Oxygen"><tspan x="-31.828" y="0">SETTINGS</tspan></text>
+        <path id="Path_10407" data-name="Path 10407" d="M43.631,0,35.709,7.922l7.922,7.922L45.879,13.6,40.2,7.922l5.675-5.675Z" transform="translate(-51.982 2)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Status_Bar_Dark" data-name="Status Bar Dark">
+      <rect id="Rectangle" width="375" height="44" fill="none"/>
+      <g id="Battery" transform="translate(336 17)">
+        <g id="Border" transform="translate(0 0.333)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+          <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+          <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+        </g>
+        <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 4)" opacity="0.4"/>
+        <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2.333)" fill="#fff"/>
+      </g>
+      <path id="Wifi" d="M7.637,10.966a.313.313,0,0,1-.221-.093l-2-2.016a.313.313,0,0,1,.01-.456,3.421,3.421,0,0,1,4.419,0,.311.311,0,0,1,.1.226.315.315,0,0,1-.094.23l-2,2.016A.308.308,0,0,1,7.637,10.966Zm3.508-3.538a.312.312,0,0,1-.214-.085,4.9,4.9,0,0,0-6.585,0,.312.312,0,0,1-.214.085.308.308,0,0,1-.22-.091L2.758,6.17a.322.322,0,0,1,0-.459,7.158,7.158,0,0,1,9.752,0,.322.322,0,0,1,.1.229.326.326,0,0,1-.094.23L11.364,7.337A.309.309,0,0,1,11.145,7.428ZM13.8,4.743a.3.3,0,0,1-.214-.087,8.64,8.64,0,0,0-11.907,0,.3.3,0,0,1-.214.087.308.308,0,0,1-.22-.091L.094,3.486a.322.322,0,0,1,0-.456,10.9,10.9,0,0,1,15.08,0,.325.325,0,0,1,.1.228.319.319,0,0,1-.094.229L14.023,4.652A.307.307,0,0,1,13.8,4.743Z" transform="translate(315.694 17.331)" fill="#fff"/>
+      <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(293.667 17.667)" fill="#fff"/>
+      <g id="Time_Style" data-name="Time Style" transform="translate(21 13)">
+        <rect id="Time_Style_background" data-name="Time Style background" width="54" height="21" fill="rgba(0,0,0,0)"/>
+        <text id="_Time" data-name="↳ Time" transform="translate(0 2)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="14.582" y="15" letter-spacing="-0.02em">9:4</tspan><tspan y="15">1</tspan></text>
+      </g>
+    </g>
+    <g id="Account" transform="translate(0 -59)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="375" height="704" transform="translate(0 177)" fill="none"/>
+      <g id="Group_24" data-name="Group 24" transform="translate(0 -7)">
+        <text id="About" transform="translate(20 220)" fill="#3a3f43" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+        <line id="Line_7" data-name="Line 7" x2="350" transform="translate(12 239)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+        <path id="Path_10408" data-name="Path 10408" d="M37.956,0l7.922,7.922-7.922,7.922L35.709,13.6l5.675-5.675L35.709,2.247Z" transform="translate(304.518 206)" fill="#d9d9d9"/>
+      </g>
+      <g id="Group_10459" data-name="Group 10459" transform="translate(0 39)">
+        <text id="Version" transform="translate(20 220)" fill="#3a3f43" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Version</tspan></text>
+        <line id="Line_7-2" data-name="Line 7" x2="350" transform="translate(12 239)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+        <path id="Path_10408-2" data-name="Path 10408" d="M37.956,0l7.922,7.922-7.922,7.922L35.709,13.6l5.675-5.675L35.709,2.247Z" transform="translate(304.518 206)" fill="#d9d9d9"/>
+      </g>
+      <g id="Group_10460" data-name="Group 10460" transform="translate(0 85)">
+        <text id="Alarm_Sound" data-name="Alarm Sound" transform="translate(20 220)" fill="#3a3f43" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Alarm Sound</tspan></text>
+        <line id="Line_7-3" data-name="Line 7" x2="350" transform="translate(12 239)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+        <path id="Path_10408-3" data-name="Path 10408" d="M37.956,0l7.922,7.922-7.922,7.922L35.709,13.6l5.675-5.675L35.709,2.247Z" transform="translate(304.518 206)" fill="#d9d9d9"/>
+      </g>
+      <g id="Group_10461" data-name="Group 10461" transform="translate(0 131)">
+        <text id="Notification" transform="translate(20 220)" fill="#3a3f43" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Notification</tspan></text>
+        <line id="Line_7-4" data-name="Line 7" x2="350" transform="translate(12 239)" fill="none" stroke="#707070" stroke-width="1" opacity="0.1"/>
+        <path id="Path_10408-4" data-name="Path 10408" d="M37.956,0l7.922,7.922-7.922,7.922L35.709,13.6l5.675-5.675L35.709,2.247Z" transform="translate(304.518 206)" fill="#d9d9d9"/>
+      </g>
+      <text id="Sign_Out" data-name="Sign Out" transform="translate(188 763)" fill="red" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-27.026" y="0">Sign Out</tspan></text>
+    </g>
+    <g id="navigator-2" data-name="navigator">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_150)">
+        <rect id="Rectangle_150-2" data-name="Rectangle 150" width="375" height="75" transform="translate(0 737)" fill="#fff"/>
+      </g>
+      <g id="Group_10463" data-name="Group 10463" transform="translate(33)">
+        <g id="Group_10465" data-name="Group 10465" transform="translate(2880 -1547)">
+          <path id="Union_1" data-name="Union 1" d="M12.5,25h-.024a12.575,12.575,0,0,1-2.5-.254,12.432,12.432,0,0,1-4.47-1.881,12.536,12.536,0,0,1-4.529-5.5,12.436,12.436,0,0,1-.728-2.346,12.621,12.621,0,0,1,0-5.038,12.432,12.432,0,0,1,1.881-4.47A12.536,12.536,0,0,1,7.634.982,12.436,12.436,0,0,1,9.981.254a12.621,12.621,0,0,1,5.038,0,12.432,12.432,0,0,1,4.47,1.881,12.536,12.536,0,0,1,4.529,5.5,12.436,12.436,0,0,1,.728,2.346A12.585,12.585,0,0,1,25,12.5a2.5,2.5,0,1,1-5,0A7.5,7.5,0,1,0,12.5,20a2.5,2.5,0,1,1,0,5Z" transform="translate(-2852 2297.043)" fill="#3c82ff"/>
+          <g id="Group_10464" data-name="Group 10464" transform="translate(-0.498 1)">
+            <path id="Path_10411" data-name="Path 10411" d="M-2839.5,2309.543v-3.94" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+            <path id="Path_10412" data-name="Path 10412" d="M-2839.5,2309.543v-3.94" transform="translate(-529.929 5149.075) rotate(90)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_10468" data-name="Group 10468" transform="translate(2921.715 -1535.278)">
+        <path id="Subtraction_2" data-name="Subtraction 2" d="M12.142,24.284A12.232,12.232,0,0,1,9.7,24.038a12.076,12.076,0,0,1-4.342-1.827,12.178,12.178,0,0,1-4.4-5.342,12.081,12.081,0,0,1-.708-2.279,12.261,12.261,0,0,1,0-4.894A12.076,12.076,0,0,1,2.074,5.353,12.178,12.178,0,0,1,7.416.954,12.081,12.081,0,0,1,9.7.247a12.261,12.261,0,0,1,4.894,0,12.076,12.076,0,0,1,4.342,1.827,12.178,12.178,0,0,1,4.4,5.342A12.082,12.082,0,0,1,24.038,9.7a12.261,12.261,0,0,1,0,4.894,12.076,12.076,0,0,1-1.827,4.342,12.178,12.178,0,0,1-5.342,4.4,12.081,12.081,0,0,1-2.279.708A12.232,12.232,0,0,1,12.142,24.284Zm0-22.261A10.119,10.119,0,1,0,22.261,12.142,10.13,10.13,0,0,0,12.142,2.024Z" transform="translate(-2783 2286.993)" fill="#3c82ff"/>
+        <g id="Group_10466" data-name="Group 10466" transform="translate(-2771.02 2293.407)">
+          <path id="Path_10413" data-name="Path 10413" d="M-2655,2283.443v-6.215" transform="translate(2655 -2277.228)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+          <path id="Path_10414" data-name="Path 10414" d="M0,6.215V0" transform="translate(6.264 6.264) rotate(90)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <path id="Path_10415" data-name="Path 10415" d="M-2767.221,2276.289l6.021-2.529" transform="matrix(0.966, -0.259, 0.259, 0.966, -700.024, -625.911)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_10416" data-name="Path 10416" d="M-2761.2,2276.289l-6.021-2.529" transform="matrix(0.966, 0.259, -0.259, 0.966, 498.186, 804.95)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <g id="Group_10471" data-name="Group 10471" transform="translate(3013 -1441.257)">
+        <path id="Union_2" data-name="Union 2" d="M9.7,22.03A11.113,11.113,0,0,1,4.075,19,11.147,11.147,0,0,1,1.69,15.46a11.088,11.088,0,0,1-.87-4.035H.556a.557.557,0,0,1,0-1.113H3a.557.557,0,1,1,0,1.113H2.676a9.274,9.274,0,1,0,9.269-9.571v0a.914.914,0,0,1-.816-.925A.913.913,0,0,1,11.945,0V0h.1a11.26,11.26,0,0,1,2.14.225A11.075,11.075,0,0,1,18.167,1.9,11.163,11.163,0,0,1,22.2,6.8a11.075,11.075,0,0,1,.648,2.089,11.143,11.143,0,0,1-6.57,12.5,11.051,11.051,0,0,1-2.089.648,11.2,11.2,0,0,1-4.486,0Z" transform="translate(-2800 2193)" fill="#3c82ff"/>
+        <g id="Group_10469" data-name="Group 10469" transform="translate(-2791.542 2199.589)">
+          <path id="Path_10418" data-name="Path 10418" d="M-2639,2250.475v-6.191" transform="translate(2642.095 -2244.284)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+          <path id="Path_10419" data-name="Path 10419" d="M0,6.191V0" transform="translate(6.191 6.209) rotate(90)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_10473" data-name="Group 10473" transform="translate(2767.504 -1633.496)">
+        <path id="Subtraction_4" data-name="Subtraction 4" d="M11.273,22.547A11.356,11.356,0,0,1,9,22.318a11.211,11.211,0,0,1-4.031-1.7,11.307,11.307,0,0,1-4.084-4.96,11.214,11.214,0,0,1-.657-2.116A11.383,11.383,0,0,1,.229,9a11.211,11.211,0,0,1,1.7-4.031A11.373,11.373,0,0,1,2.955,3.665H5.768a9.39,9.39,0,1,0,5.505-1.786V0a11.356,11.356,0,0,1,2.272.229,11.213,11.213,0,0,1,4.031,1.7,11.306,11.306,0,0,1,4.084,4.96A11.219,11.219,0,0,1,22.318,9a11.383,11.383,0,0,1,0,4.544,11.214,11.214,0,0,1-1.7,4.031,11.308,11.308,0,0,1-4.96,4.084,11.221,11.221,0,0,1-2.116.657A11.356,11.356,0,0,1,11.273,22.547Z" transform="translate(-2479 2386)" fill="#3c82ff"/>
+        <ellipse id="Ellipse_3221" data-name="Ellipse 3221" cx="0.902" cy="0.939" rx="0.902" ry="0.939" transform="translate(-2468.553 2386)" fill="#3c82ff"/>
+        <rect id="Rectangle_134" data-name="Rectangle 134" width="3.608" height="1.127" rx="0.564" transform="translate(-2476.081 2388.346) rotate(23)" fill="#3c82ff"/>
+        <path id="Path_10418-2" data-name="Path 10418" d="M0,6.272V0" transform="matrix(0.695, 0.719, -0.719, 0.695, -2464.965, 2391.453)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_10419-2" data-name="Path 10419" d="M0,6.069V0" transform="translate(-2466.75 2397.273) rotate(49)" fill="none" stroke="#3c82ff" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Home_Indidcator" data-name="Home Indidcator" transform="translate(-13 432)">
+      <rect id="Background" width="375" height="34" transform="translate(13 346)" fill="none"/>
+      <rect id="Bar" width="134" height="5" rx="2.5" transform="translate(134 366)"/>
+    </g>
+  </g>
+</svg>
